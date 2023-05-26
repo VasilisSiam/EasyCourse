@@ -1,13 +1,9 @@
-# ADOPSE_2023_Omada2
+# EasyCourse
 
 ## Project's URL
 https://easycourse.thankarezos.com/
 
-## Functional requirements
-https://docs.google.com/spreadsheets/d/13xFasXgSEgq60FqIqWmjeOfcQlivvetx8qJRgwGzH1c/edit?usp=sharing
+## About easy Course
+This project has been implementned during the sprint semester of 2023 in the subject ADOPSE
+It has been writen in .net,html,css,javascript and mysql 
 
-## Roles
-https://docs.google.com/spreadsheets/d/1Otu6uRoyLc6QRkMfk5WKrsXkQYk_9mJ18PvSHTdXnw8/edit#gid=0
-
-## Meetings
-https://docs.google.com/spreadsheets/d/1MIJe6zImtDc5rWcMdYC8mTzEHKLKq7BdEWNt-fDh_pc/edit#gid=0
